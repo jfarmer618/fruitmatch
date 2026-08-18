@@ -15,7 +15,7 @@ const images = [
     "strawberry.png",
     "watermelon.png",
     "kiwi.png",
-    "reed-2.png"
+    "lemon.png"
 ];
 
 // ------------------------------------------
