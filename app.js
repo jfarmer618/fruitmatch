@@ -103,7 +103,10 @@ function createBoard() {
         card.innerHTML = `
             <div class="card-inner">
                 <div class="card-front">
-                    ?
+                    <img
+                        src="images/card-front.png"
+                        alt="Matching card"
+                    >
                 </div>
                 <div class="card-back">
                     <img
