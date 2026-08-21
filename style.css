@@ -89,6 +89,7 @@ h1 {
     background: #3498db;
     color: white;
     font-size: 40px;
+    z-index: 2;
 }
 
 /* Image side */
@@ -97,7 +98,8 @@ h1 {
     background: white;
     transform: rotateY(180deg);
     border: 2px solid #ddd;
-    z-index: 2;
+    transform: rotateY(180deg);
+    
 }
 
 .card-back img {
